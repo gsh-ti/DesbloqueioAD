@@ -45,7 +45,7 @@ const logado = !!token;
   async function desbloquear(event: React.MouseEvent) {
     event.preventDefault();
 const response = await fetch(
-  "https://retailer-designing-station-depends.trycloudflare.com/desbloquearUsuario",
+  "https://gratuit-key-cables-matter.trycloudflare.com/desbloquearUsuario",
   {
     method: "POST",
 
@@ -68,7 +68,7 @@ const response = await fetch(
   }
 
   async function chamaMicrosoft() {
-    window.location.href = "https://retailer-designing-station-depends.trycloudflare.com/auth/login";
+    window.location.href = "https://gratuit-key-cables-matter.trycloudflare.com/auth/login";
   }
 
   function logout() {
